@@ -46,11 +46,3 @@
     }
   }
 }
-{
-"routes": [
-    {
-      "pattern": "uptime.lrate.top",
-      "custom_domain": true
-    }
-  ]
-}
