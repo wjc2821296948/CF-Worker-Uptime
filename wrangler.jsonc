@@ -27,6 +27,14 @@
     }
   ],
 
+  // 自定义域名路由
+  "routes": [
+    {
+      "pattern": "uptime.lrate.top",
+      "custom_domain": true
+    }
+  ],
+
   // 可观测性配置
   "observability": {
     "enabled": false,
