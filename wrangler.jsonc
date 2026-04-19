@@ -1,6 +1,6 @@
 {
   // Worker 基本信息
-  "name": "uptime-monitor",
+  "name": "uptime",
   "main": "src/index.ts",
   "compatibility_date": "2024-01-01",
   "compatibility_flags": ["nodejs_compat"],
@@ -15,7 +15,7 @@
     {
       "binding": "DB",
       "database_name": "uptime-db",
-      "database_id": "8cc4d5f1-fc03-43e9-a2f2-0047fd668e49"
+      "database_id": "33f03048-9839-4b7c-93bc-4272ba740827"
     }
   ],
 
