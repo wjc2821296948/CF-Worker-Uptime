@@ -46,4 +46,10 @@
       "head_sampling_rate": 1
     }
   }
+  "routes": [
+    {
+      "pattern": "uptime.lrate.top",
+      "custom_domain": true
+    }
+  ]
 }
