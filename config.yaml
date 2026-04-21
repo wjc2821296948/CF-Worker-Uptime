@@ -1,8 +1,8 @@
 # Uptime Monitor Configuration
 
 settings:
-  title: "Acofork System Status"
-  logo: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0" # Optional: URL to your logo image
+  title: "Lrate System Status"
+  logo: "https://lrate.top/favicon.svg" # Optional: URL to your logo image
   callback_url: ""
   callback_secret: ""
   # If true, only send notifications when status changes to DOWN.
